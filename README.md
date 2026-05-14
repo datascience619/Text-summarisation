@@ -131,12 +131,6 @@ Contributions are welcome! Please open an issue first to discuss changes, then s
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - [Sumy](https://github.com/miso-belica/sumy) — Summarization library
